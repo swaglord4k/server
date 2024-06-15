@@ -1,0 +1,7 @@
+## change name to conf.yaml to test app
+
+HOST: amplifonx-amplifonx-test.j.aivencloud.com
+USER: avnadmin
+PASSWORD: will be sent separetly
+DBNAME: defaultdb
+PORT: 15740

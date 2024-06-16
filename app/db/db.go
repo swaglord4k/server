@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	m "de.amplifonx/app/model"
+	m "de.server/app/model"
 	"gorm.io/gorm"
 )
 

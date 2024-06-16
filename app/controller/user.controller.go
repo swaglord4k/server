@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"de.amplifonx/app/auth"
-	mw "de.amplifonx/app/middleware"
-	m "de.amplifonx/app/model"
+	"de.server/app/auth"
+	mw "de.server/app/middleware"
+	m "de.server/app/model"
 )
 
 func NewUserRoutes(c *Controller[m.User]) {

@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	c "de.amplifonx/app/controller"
-	"de.amplifonx/app/db"
-	m "de.amplifonx/app/model"
+	c "de.server/app/controller"
+	"de.server/app/db"
+	m "de.server/app/model"
 	"github.com/go-chi/chi/v5"
 
 	_ "github.com/lib/pq"

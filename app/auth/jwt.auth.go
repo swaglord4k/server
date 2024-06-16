@@ -3,7 +3,7 @@ package auth
 import (
 	"fmt"
 
-	"de.amplifonx/app/model"
+	"de.server/app/model"
 	"github.com/golang-jwt/jwt/v5"
 )
 

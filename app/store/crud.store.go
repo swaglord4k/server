@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"de.amplifonx/app/model"
+	"de.server/app/model"
 	"github.com/davecgh/go-spew/spew"
 	"gorm.io/gorm"
 )

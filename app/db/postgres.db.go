@@ -3,7 +3,7 @@ package db
 import (
 	"fmt"
 
-	"de.amplifonx/app/model"
+	"de.server/app/model"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

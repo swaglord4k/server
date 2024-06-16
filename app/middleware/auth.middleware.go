@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	m "de.amplifonx/app/model"
-	s "de.amplifonx/app/store"
+	m "de.server/app/model"
+	s "de.server/app/store"
 )
 
 type key string

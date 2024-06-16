@@ -1,6 +1,6 @@
 package main
 
-import "de.amplifonx/app"
+import "de.server/app"
 
 // @title Swagger Example API
 // @version 1.0

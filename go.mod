@@ -1,4 +1,4 @@
-module de.amplifonx
+module de.server
 
 go 1.22.0
 

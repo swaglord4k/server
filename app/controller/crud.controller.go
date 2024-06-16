@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	mw "de.amplifonx/app/middleware"
-	m "de.amplifonx/app/model"
-	s "de.amplifonx/app/store"
+	mw "de.server/app/middleware"
+	m "de.server/app/model"
+	s "de.server/app/store"
 	"github.com/go-chi/chi/v5"
 	"gorm.io/gorm"
 )
